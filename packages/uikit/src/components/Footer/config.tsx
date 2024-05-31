@@ -89,32 +89,32 @@ export const socials = [
   {
     label: "Twitter",
     icon: TwitterIcon,
-    href: "http://twitter.com/sharknadocoin",
+    href: "http://twitter.com/",
   },
   {
     label: "Reddit",
     icon: RedditIcon,
-    href: "https://reddit.com/r/sharknadocoin",
+    href: "https://reddit.com/r/",
   },
   {
     label: "Github",
     icon: GithubIcon,
-    href: "https://github.com/sharknadocoin/",
+    href: "https://github.com/",
   },
   {
     label: "Discord",
     icon: DiscordIcon,
-    href: "http://discord.sharknado.io",
+    href: "http://discord.com",
   },
   {
     label: "Medium",
     icon: MediumIcon,
-    href: "https://sharknadocoin.medium.com/",
+    href: "",
   },
   {
     label: "Docs",
     icon: InfoIcon,
-    href: "https://docs.sharknado.io",
+    href: "",
   },
 ];
 
