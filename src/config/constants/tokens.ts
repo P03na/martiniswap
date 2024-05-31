@@ -2089,9 +2089,9 @@ export const testnetTokens = defineTokens({
   ),
   busd: new Token(
     TESTNET,
-    '0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee',
+    '0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814',
     18,
-    'BUSD',
+    'tBUSD',
     'Binance USD',
     'https://www.paxos.com/busd/',
   ),
